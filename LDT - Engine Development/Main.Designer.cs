@@ -48,6 +48,7 @@
             lb_display.Size = new Size(59, 15);
             lb_display.TabIndex = 0;
             lb_display.Text = "lb_display";
+            lb_display.Visible = false;
             // 
             // pb_display
             // 
